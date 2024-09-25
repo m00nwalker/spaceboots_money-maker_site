@@ -1,6 +1,15 @@
-this application should build a puzzle from an image and shuffle it to be able to be placed back together.
+This application should build a puzzle from an image and shuffle it to be able to be placed back together.
 
-This game application is a brain teaser
+This game application is a brain teaser for ages 6+!
+
+The user must be signed in to accumulate rewards points. Sign in will be with google, facebook, or email.
+
+## Rewards System
+
+User will accumulate 2 sets of points:
+1. The level counter to upgrade level ranks unpon completion of puzzle and trivia questions.
+
+2. The Rewards Points that accumulates to certain ranges to be rewarded with gifts from giftbit.com API integration.
 
 ## Feature: Timed Challenge Mode with Brain Teasers
 1. Timed Puzzle Mode
